@@ -33,6 +33,7 @@ from LLM-driven trading systems to AI-powered apps with **2 million+ downloads**
 | **[PrimoGPT](https://github.com/ivebotunac/PrimoGPT)** | The code from my PhD. A Transformer model extracts features from financial news, and a deep reinforcement learning agent trades on them. | ![Stars](https://img.shields.io/github/stars/ivebotunac/PrimoGPT?style=flat-square&labelColor=0C2236&color=FF5A1F&label=%E2%98%85) |
 | **[capacitor-ar-scanner](https://github.com/ivebotunac/capacitor-ar-scanner)** | A Capacitor plugin for LiDAR scanning and real-world measurement on iOS, built to feed AI capture pipelines. | ![Stars](https://img.shields.io/github/stars/ivebotunac/capacitor-ar-scanner?style=flat-square&labelColor=0C2236&color=FF5A1F&label=%E2%98%85) |
 | **[my-academic-papers](https://github.com/ivebotunac/my-academic-papers)** | Code behind my papers since 2017, from LSTM forecasting to fine-tuning versus prompting. | ![Stars](https://img.shields.io/github/stars/ivebotunac/my-academic-papers?style=flat-square&labelColor=0C2236&color=FF5A1F&label=%E2%98%85) |
+| **[ivebotunac-web](https://github.com/ivebotunac/ivebotunac-web)** | The source of ivebotunac.com: my CV as one Nuxt 4 page, with a pixel-art AI robot on top that shape-shifts into critters, recruits hidden sub-agents and fights an AGI boss. | ![Stars](https://img.shields.io/github/stars/ivebotunac/ivebotunac-web?style=flat-square&labelColor=0C2236&color=FF5A1F&label=%E2%98%85) |
 
 ## Research
 
